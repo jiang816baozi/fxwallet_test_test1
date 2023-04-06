@@ -1,0 +1,3 @@
+#取字符串“MONTY”的第五个字母是...
+fifth_letter = "MONTY"[-1]
+print(fifth_letter)
